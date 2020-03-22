@@ -67,7 +67,7 @@ Stanford had the maximum number of tweets that were nearly replicas followed by 
 
 The University of Chicago and the University of Illinois, Chicago, proved to have the least number of duplicated tweets in their social media.
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/duplicate_ratios.png)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/duplicate_ratios_bar.png)
 
 
 ## Where are the twitterers located?
