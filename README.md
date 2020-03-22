@@ -35,12 +35,12 @@ There is significant traffic during the beginning of <b>Fall</b> season across a
 
 This could correspond to the beginning of university classes and Spring break respectively.
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/created_months.png)
 
 
 When we have a closer look at a weekly level, <b>Monday</b> seems to generate the most traffic, with <b>Tuesday</b> having the least. 
 
-
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/created_days.png)
 
 ## How do universities compare?
 
@@ -50,13 +50,13 @@ Stanford has had the highest number of tweets in the last 2 years, followed by N
 
 University of Illinois, Chicago and University of Chicago are very close in volume activity.
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/num_tweets_per_uni.png)
 
 Most tweets have a similar distribution in terms of number of characters (length).
 
 Northwestern University is the outlier in terms of having a bi-model distribution, with more emphasis on shorter tweets
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/tweet_length.png)
 
 
 ## How unique are the tweets for each University?
@@ -67,7 +67,7 @@ Stanford had the maximum number of tweets that were nearly replicas followed by 
 
 The University of Chicago and the University of Illinois, Chicago, proved to have the least number of duplicated tweets in their social media.
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/duplicate_ratios.png)
 
 
 ## Where are the twitterers located?
@@ -75,19 +75,19 @@ The University of Chicago and the University of Illinois, Chicago, proved to hav
 While the number of profiles for each university vary, the geographical location for the profiles almost always gravitate strongly towards the location of the university
 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_uc.png)
 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_nw.png)
 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_uic.png)
 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_upenn.png)
 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_stanford.png)
 
 
 ### Who are the most prolific twitterers?
@@ -101,19 +101,21 @@ We can identify the twitter profiles with the most outreach by looking at factor
 
 The top 10 most prolific profiles were found based on number of tweets
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+Northwestern Spyder and Stanford Spyder for Northwestern & Stanford University respectively lead with the most number tweets overall. 
+
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twitter_profiles.png)
 
 #### Retweet volume
 
 The same profiles do not necessarily come to top 10 if we look at retweet volume
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/num_retweets.png)
 
 #### Topic of tweet
 
 Whereas if we look at the ratio of tweets about the university - 
 
-![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/)
+![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/ratio_tweets.png)
 
 
 
