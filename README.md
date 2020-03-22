@@ -8,6 +8,18 @@ Having a strong presence in Twitter for a University allows it to have access to
 To that end, twitter profiles related to multiple universities were analysed and compared to understand the factors that drive a more prolific social media presence, thereby improving outreach to prospective students and researchers.
 
 
+## Contents
+
+1. (Insights)[https://github.com/Srihari231092/twitter_feed_analysis#key-insights-from-analysing-the-data]
+1. (Data)[https://github.com/Srihari231092/twitter_feed_analysis#data]
+1. (Analysis)[https://github.com/Srihari231092/twitter_feed_analysis#analysis]
+1. (When do people tweet?)[https://github.com/Srihari231092/twitter_feed_analysis#https://github.com/Srihari231092/twitter_feed_analysis#when-do-people-tweet]
+1. (How do universities compare?)[https://github.com/Srihari231092/twitter_feed_analysis#how-do-universities-compare]
+1. (How unique are the tweets for each University?)[https://github.com/Srihari231092/twitter_feed_analysis#how-unique-are-the-tweets-for-each-university]
+1. (Where are the twitterers located?)[https://github.com/Srihari231092/twitter_feed_analysis#where-are-the-twitterers-located]
+1. (Who are the most prolific twitterers?)[https://github.com/Srihari231092/twitter_feed_analysis#who-are-the-most-prolific-twitterers]
+1. (Recommendations)[https://github.com/Srihari231092/twitter_feed_analysis#recommendations]
+
 
 ## Key Insights from analysing the data
 	
@@ -29,7 +41,7 @@ The dataset was scraped with the help of the [University of Chicago's RCC depart
 ![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/pipeline.png)
 
 
-## When do people even tweet?
+## When do people tweet?
 
 There is significant traffic during the beginning of <b>Fall</b> season across a year, and a significant dip at the beginning of <b>Spring</b>.
 
@@ -90,7 +102,7 @@ While the number of profiles for each university vary, the geographical location
 ![alt_text](https://github.com/Srihari231092/twitter_feed_analysis/blob/master/res/img/twit_loc_stanford.png)
 
 
-### Who are the most prolific twitterers?
+## Who are the most prolific twitterers?
 
 We can identify the twitter profiles with the most outreach by looking at factors like - 
 1. Number of tweets
